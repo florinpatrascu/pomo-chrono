@@ -1,6 +1,6 @@
 ##The jQuery Pomodori Chrono plugin
 
-A simple yet versatile stateful jQuery Pomodori countdown timer plugin, developed to support the UI timers and some of the AJAX functionality for the [Restful Pomodori](http://restfulpomodori.herokuapp.com) demo site.
+A simple yet versatile jQuery stateful plugin. A Pomodori countdown timer, developed to support the UI timers and some of the AJAX functionality for the [Restful Pomodori](http://restfulpomodori.herokuapp.com) demo site.
 
 ![demo screenshot](https://github.com/florinpatrascu/pomo-chrono/raw/master/images/demo-screen.png)
 
