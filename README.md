@@ -2,7 +2,7 @@
 
 A simple yet versatile stateful jQuery Pomodori countdown timer plugin, developed to support the UI timers and some of the AJAX functionality for the [Restful Pomodori](http://restfulpomodori.herokuapp.com) demo site.
 
-![demo screenshot](https://github.com/florinpatrascu/pomochrono/raw/master/images/demo-screen.png)
+![demo screenshot](https://github.com/florinpatrascu/pomo-chrono/raw/master/images/demo-screen.png)
 
 ## Usage:
 
